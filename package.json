@@ -1,6 +1,6 @@
 {
   "name": "strict-emitter",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "lint": "eslint lib"
   },
   "files": [
-      "dist"
+    "dist"
   ],
   "author": "Arjan Frans <arjanfrans.com@gmail.com>",
   "license": "MIT",
